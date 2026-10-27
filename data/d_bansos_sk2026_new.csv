@@ -1,0 +1,478 @@
+NO.KK;NIK;Nama;TMPT_LHR;TGL_LHR;Umur;JK;Agama;Pendidikan;Pekerjaan;Pendapatan;tanggungan;Status Rumah;Jumlah Kendaraan;Status;Alamat;Status Bantuan
+;;;BOGOR;4/23/1962;63;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;500000;3;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;11/23/1961;64;L;Islam;Tamat SD/Sederajat;Wiraswasta;2300000;2;Milik Sendiri;2;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;8/4/1977;48;L;Islam;SLTA/Sederajat;Karyawan Swasta;3500000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;2/12/1987;39;P;Islam;SLTA/Sederajat;Wiraswasta;700000;2;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;1/7/1969;57;L;Islam;SLTP/Sederajat;Karyawan Swasta;2300000;0;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;8/10/1975;50;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;3200000;3;Milik Sendiri;2;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;7/14/1958;67;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;500000;1;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;EOGOR;4/6/1979;46;L;Islam;SLTA/Sederajat;Pegawai Pemerintah (PPPK);2700000;4;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;8/8/1997;28;P;Islam;SLTA/Sederajat;Wiraswasta;550000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;4/13/1975;50;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;2;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOYOLALI;6/4/1974;51;L;Islam;SLTA/Sederajat;Belum/Tidak Bekerja;0;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;2/16/1960;66;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;3;Milik Sendiri;1;Cerai Mati;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOGOR;9/30/1960;65;L;Islam;Tamat SD/Sederajat;Buruh Tani/Perkebunan;3000000;3;Milik Sendiri;3;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;3/8/1976;50;P;Islam;SLTA/Sederajat;Mengurus Rumah Tangga;0;4;Milik Sendiri;1;Cerai Mati;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;6/6/1977;48;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;900000;3;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;6/11/1960;65;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;0;Menumpang;0;Kawin;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOGOR;9/17/1974;51;L;Islam;SLTP/Sederajat;Wiraswasta;1000000;4;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;3/8/1976;50;L;Islam;SLTP/Sederajat;Karyawan Swasta;4000000;4;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;3/1/1969;57;L;Islam;Tamat SD/Sederajat;Wiraswasta;900000;5;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;6/15/1984;41;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;500000;3;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;9/24/1974;51;L;Islam;SLTA/Sederajat;Karyawan Swasta;3200000;3;Milik Sendiri;2;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;7/19/1972;53;L;Islam;SLTP/Sederajat;Buruh Tani/Perkebunan;1500000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;5/20/1976;49;L;Islam;SLTP/Sederajat;Karyawan Swasta;4500000;3;Milik Sendiri;2;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;9/26/1997;28;L;Islam;SLTA/Sederajat;Karyawan Swasta;3700000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;5/6/1965;60;L;Islam;Tamat SD/Sederajat;Wiraswasta;2600000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;1/1/2000;26;L;Islam;SLTP/Sederajat;Wiraswasta;3000000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;9/9/1987;38;L;Islam;SLTA/Sederajat;Karyawan Swasta;6500000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;10/3/1956;69;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;450000;3;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Layak
+;;;MAJALENGKA;1/10/1984;42;L;Islam;Tidak/Belum Sekolah;Wiraswasta;4700000;3;Milik Sendiri;2;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;10/22/1986;39;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;3000000;3;Milik Sendiri;2;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;12/22/1979;46;L;Islam;SLTP/Sederajat;Wiraswasta;3500000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;SUMEDANG;11/12/1968;57;L;Islam;SLTA/Sederajat;Wiraswasta;2500000;1;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;7/7/1990;35;L;Islam;SLTA/Sederajat;Karyawan Swasta;3500000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;JAKARTA;7/27/1982;43;L;Islam;SLTP/Sederajat;Karyawan Swasta;5000000;4;Milik Sendiri;2;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;NGANJUK;8/25/1987;38;L;Islam;SLTA/Sederajat;Karyawan Swasta;3800000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;CIANJUR;6/25/1982;43;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOGOR;11/18/1991;34;L;Islam;Tamat SD/Sederajat;Karyawan Swasta;2000000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;2/23/1994;32;L;Islam;SLTA/Sederajat;Karyawan Swasta;3300000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;3/1/1960;66;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOGOR;9/14/1991;34;L;Islam;SLTP/Sederajat;Wiraswasta;3200000;3;Ngontrak;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;PANDEGLANG;11/21/1958;67;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;0;2;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;7/5/1954;71;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;0;2;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOGOR;4/16/1960;65;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 001 RW 003;Layak
+;;;CILACAP;9/17/1982;43;L;Islam;Tamat SD/Sederajat;Wiraswasta;1000000;1;Milik Sendiri;2;Kawin;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOGOR;10/10/1981;44;L;Islam;SLTA/Sederajat;Wiraswasta;2000000;2;Milik Sendiri;2;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;3/14/1964;61;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;0;3;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOGOR;3/16/1983;42;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;2600000;4;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;12/9/1975;50;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;1000000;4;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;1/15/1966;60;P;Islam;SLTP/Sederajat;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOGOR;1/6/1995;31;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;1400000;1;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;5/17/1994;31;L;Islam;SLTA/Sederajat;Karyawan Swasta;3600000;2;Milik Sendiri;2;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;8/26/1992;33;L;Isfem;SLTP/Sederajat;Karyawan Swasta;4000000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;8/3/1961;64;L;fetam;Tidak/Belum Sekolah;Wiraswasta;0;5;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOGOR;1/3/1995;31;L;Islam;Tamat SD/Sederajat;Karyawan Swasta;3000000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;6/25/1965;60;L;Islam;SLTA/Sederajat;Wiraswasta;4000000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;7/10/1964;61;L;Islam;SLTA/Sederajat;Pegawai Negeri Sipil (Pns);3400000;1;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;7/17/1980;45;L;Islam;SLTA/Sederajat;Wiraswasta;4000000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;4/12/1960;65;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;0;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOGOR;6/5/1995;30;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;1500000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;3/11/1995;30;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;2000000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;8/5/1974;51;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;500000;1;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;6/12/1980;45;L;Islam;SLTP/Sederajat;Wiraswasta;3000000;3;Milik Sendiri;2;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;JAKARTA;5/5/1987;38;L;Islam;SLTA/Sederajat;Karyawan Swasta;4300000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;SUMEDANG;11/9/1972;53;L;Islam;SLTA/Sederajat;Karyawan Swasta;1200000;4;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;KARAWANG;5/5/1992;33;L;Islam;SLTP/Sederajat;Wiraswasta;2200000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;10/25/1970;55;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;800000;4;Milik Sendiri;2;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;6/16/1986;39;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;1300000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;8/7/1956;69;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOGOR;5/11/1991;34;L;Islam;SLTP/Sederajat;Wiraswasta;2000000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;4/7/1985;40;L;Islam;SLTP/Sederajat;Wiraswasta;2000000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;4/8/1959;66;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOGOR;7/14/1966;59;L;Islam;SLTA/Sederajat;Karyawan Swasta;0;5;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;6/16/1983;42;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;1500000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;2/8/1976;50;L;Islam;SLTA/Sederajat;Wiraswasta;4000000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;12/1/1994;31;P;Islam;SLTA/Sederajat;Mengurus Rumah Tangga;1000000;1;Menumpang;0;Cerai Hidup;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;7/22/1990;35;L;Islam;SLTA/Sederajat;Karyawan Swasta;5000000;0;Milik Sendiri;1;Cerai Hidup;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BANYUMAS;4/10/1972;53;L;Islam;Tamat SD/Sederajat;Karyawan Swasta;2000000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;8/7/1963;62;L;Islam;Tamat SD/Sederajat;Pedagang;6000000;1;Milik Sendiri;4;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;4/16/1966;59;L;Islam;SLTA/Sederajat;Wiraswasta;5000000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;7/2/1994;31;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;400000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;1/1/1969;57;L;Islam;SLTP/Sederajat;Karyawan Swasta;1000000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;5/12/1965;60;P;Islam;Tidak/Belum Sekolah;Asisten Rumah Tangga;2500000;0;Milik Sendiri;0;Cerai Hidup;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;3/29/1980;45;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;2500000;3;Milik Sendiri;2;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;5/6/1983;42;L;Islam;SLTA/Sederajat;Wiraswasta;4500000;4;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;11/11/1983;42;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;3000000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;DOGOR;7/5/1956;69;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Layak
+;;;DOGOR;7/17/1984;41;L;Istam;SLTA/Sederajat;Karyawan Swasta;5000000;3;Milik Sendiri;2;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;6/14/1963;62;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;0;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOGOR;9/8/1969;56;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;1350000;3;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;1/1/1962;64;L;Islam;Tidak/Belum Sekolah;Petani/Pekebun;400000;5;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;4/10/1984;41;L;Islam;SLTA/Sederajat;Karyawan Swasta;4000000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;12/31/1988;37;L;Islam;SLTA/Sederajat;Karyawan Swasta;2000000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;JAKARTA;7/30/1990;35;L;Islam;SLTA/Sederajat;Wiraswasta;2800000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;JAKARTA;1/7/1966;60;L;Islam;SLTP/Sederajat;Karyawan Swasta;500000;3;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;7/13/1986;39;L;Islam;SLTA/Sederajat;Karyawan Swasta;3500000;4;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;4/11/1984;41;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;1500000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;6/17/1972;53;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;2;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOGOR;9/8/1952;73;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOGOR;5/12/1965;60;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Layak
+;;;BOGOR;2/15/1962;64;L;tslam;Tidak/Belum Sekolah;Pedagang;500000;1;Milik Sendiri;0;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;5/20/1982;43;L;balam;SLTP/Sederajat;Wiraswasta;3500000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 001 RW 003;Tidak Layak
+;;;BOGOR;4/5/1996;29;L;Islam;Tamat SD/Sederajat;Karyawan Swasta;4000000;0;Milik Sendiri;1;Belum Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;7/2/1953;72;L;Islom;Tamat SD/Sederajat;Buruh Harian Lepas;350000;2;Milik Sendiri;0;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;4/19/1994;31;L;Islam;Tamat SD/Sederajat;Wiraswasta;2500000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;6/10/1976;49;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;700000;5;Milik Sendiri;0;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;9/12/1954;71;L;Islam;Tidak/Belum Sekolah;Petani/Pekebun;1500000;2;Milik Sendiri;0;Kawin;Kp. Sawah,RT 002 RW/003;Layak
+;;;BOGOR;7/10/1972;53;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;500000;3;Milik Sendiri;2;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;3/24/1982;43;P;Islam;Tamat SD/Sederajat;Belum/Tidak Bekerja;0;0;Milik Sendiri;0;Belum Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;4/2/1964;61;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;500000;4;Milik Sendiri;0;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;7/5/1960;65;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;2;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 002 RW/003;Layak
+;;;BOGOR;4/27/1968;57;L;Islam;Tamat SD/Sederajat;Wiraswasta;0;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;6/16/1973;52;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;1700000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;7/1/1942;83;P;Islam;Tidak/Belum Sekolah;Petani/Pekebun;0;1;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 002 RW/003;Layak
+;;;BOGOR;7/6/1973;52;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Hidup;Kp. Sawah,RT 002 RW/003;Layak
+;;;BOGOR;6/3/1994;31;L;Islam;SLTA/Sederajat;Karyawan Swasta;2400000;2;Menumpang;1;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;2/5/1958;68;L;Islam;Tidak/Belum Sekolah;Buruh Tani/Perkebunan;700000;4;Milik Sendiri;0;Kawin;Kp. Sawah,RT 002 RW/003;Layak
+;;;BOGOR;8/25/1950;75;L;Islam;Tidak/Belum Sekolah;Petani/Pekebun;500000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 002 RW/003;Layak
+;;;BOGOR;11/11/1993;32;L;Islam;SLTP/Sederajat;Belum/Tidak Bekerja;700000;2;Milik Sendiri;0;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;9/26/1990;35;L;Islam;SLTA/Sederajat;Karyawan Swasta;2300000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;5/8/1978;47;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;3500000;2;Milik Sendiri;0;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;11/2/1983;42;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;2000000;0;Milik Sendiri;1;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;6/22/1988;37;L;Islam;SLTA/Sederajat;Wiraswasta;1200000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;10/9/1985;40;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;500000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;7/18/1985;40;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;2300000;4;Milik Sendiri;2;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;TANGERANG;9/28/1992;33;L;Islam;SLTA/Sederajat;Karyawan Swasta;3400000;2;Milik Sendiri;2;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;2/9/1954;72;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 002 RW/003;Layak
+;;;BOGOR;2/18/1966;60;L;Islam;Tamat SD/Sederajat;Wiraswasta;500000;4;Milik Sendiri;3;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;1/9/1981;45;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;1500000;3;Menumpang;1;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;2/14/1972;54;P;Islam;SLTP/Sederajat;Mengurus Rumah Tangga;0;3;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 002 RW/003;Layak
+;;;BOGOR;4/28/2002;23;L;Islam;SLTA/Sederajat;Karyawan Swasta;2900000;2;Menumpang;1;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;8/31/1993;32;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;2200000;2;Menumpang;2;Belum Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;2/25/1965;61;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Hidup;Kp. Sawah,RT 002 RW/003;Layak
+;;;BOGOR;8/27/1940;85;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 002 RW/003;Layak
+;;;BOGOR;5/2/1952;73;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;400000;4;Milik Sendiri;1;Kawin;Kp. Sawah,RT 002 RW/003;Layak
+;;;BOGOR;11/17/1965;60;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 002 RW/003;Layak
+;;;BOGOR;5/8/1988;37;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;2700000;2;Menumpang;1;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;9/24/1982;43;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;1200000;4;Milik Sendiri;2;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;3/2/1950;76;L;islam;Tidak/Belum Sekolah;Buruh Tani/Perkebunan;500000;4;Milik Sendiri;0;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;5/7/1988;37;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;3800000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;2/25/2009;17;L;Islam;SLTP/Sederajat;Belum/Tidak Bekerja;0;0;Menumpang;0;Belum Kawin;Kp. Sawah,RT 002 RW/003;Layak
+;;;PEMALANG;10/17/1990;35;L;Islam;Tamat SD/Sederajat;Karyawan Swasta;2700000;3;Ngontrak;1;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;11/25/1981;44;L;Istam;SLTA/Sederajat;Buruh Harian Lepas;2300000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;JAKARTA;11/2/1965;60;L;Islam;SLTA/Sederajat;Wiraswasta;1400000;3;Milik Sendiri;0;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;4/26/1997;28;L;Islam;SLTP/Sederajat;Karyawan Swasta;1900000;2;Menumpang;1;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;1/1/1957;69;L;Islam;Tidak/Belum Sekolah;Wiraswasta;500000;1;Milik Sendiri;0;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;5/9/1974;51;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;500000;6;Milik Sendiri;0;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;TEGAL;2/17/1958;68;L;Islam;SLTA/Sederajat;Karyawan Swasta;0;3;Milik Sendiri;3;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;1/11/1992;34;L;Islam;SLTP/Sederajat;Wiraswasta;2300000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 002 RW/003;Layak
+;;;BOGOR;9/5/1962;63;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 002 RW/003;Layak
+;;;SUKABUMI;3/2/1981;45;L;Islam;Tamat SD/Sederajat;Wiraswasta;1200000;4;Milik Sendiri;1;Kawin;Kp. Sawah,RT 002 RW/003;Tidak Layak
+;;;BOGOR;6/5/1960;65;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;500000;2;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;CILACAP;3/6/1984;42;L;Islam;SLTA/Sederajat;Karyawan Swasta;2500000;3;Menumpang;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;JAKARTA;9/23/1993;32;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;1200000;3;Menumpang;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;5/4/1957;68;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Mati;Kp Sawah, RT 003 RW 003;Layak
+;;;BOGOR;12/31/1985;40;L;Islam;SLTA/Sederajat;Wiraswasta;2500000;3;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;11/4/1968;57;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Hidup;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;6/6/1973;52;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;700000;3;Milik Sendiri;2;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;8/8/1975;50;L;Islam;SLTA/Sederajat;Wiraswasta;3500000;1;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;12/8/1969;56;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;2;Milik Sendiri;0;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;11/11/1964;61;L;Islam;SLTP/Sederajat;Karyawan Honorer;1500000;5;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;3/18/1972;53;L;Islam;SLTP/Sederajat;Karyawan Swasta;1200000;2;Milik Sendiri;2;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;8/12/1956;69;L;Islam;Tamat SD/Sederajat;Wiraswasta;2500000;2;Milik Sendiri;0;Kawin;Kp Sawah, RT 003 RW 003;Layak
+;;;BOGOR;6/15/1996;29;L;Islam;SLTA/Sederajat;Karyawan Swasta;2000000;2;Menumpang;1;Kawin;Kp Sawah, RT 003 RW 003;Layak
+;;;BOGOR;1/1/1945;81;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp Sawah, RT 003 RW 003;Layak
+;;;BOGOR;11/21/1970;55;L;Islam;SLTA/Sederajat;Wiraswasta;0;3;Milik Sendiri;2;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;2/28/1997;29;L;Islam;SLTA/Sederajat;Karyawan Swasta;2500000;2;Ngontrak;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;2/14/1939;87;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp Sawah, RT 003 RW 003;Layak
+;;;BOGOR;11/30/1974;51;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;500000;4;Milik Sendiri;0;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;4/21/1955;70;L;Islam;Tamat SD/Sederajat;Pedagang;0;1;Milik Sendiri;0;Kawin;Kp Sawah, RT 003 RW 003;Layak
+;;;BOGOR;7/14/1975;50;P;Islam;SLTP/Sederajat;Mengurus Rumah Tangga;500000;1;Milik Sendiri;1;Cerai Hidup;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;PEMALANG;5/11/1979;46;L;Islam;SLTA/Sederajat;Wiraswasta;4200000;3;Milik Sendiri;2;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;1/15/1984;42;L;Islam;SLTA/Sederajat;Wiraswasta;2500000;4;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;5/11/1960;65;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp Sawah, RT 003 RW 003;Layak
+;;;BOGOR;6/12/1955;70;L;Islam;Tamat SD/Sederajat;Buruh Tani/Perkebunan;0;2;Milik Sendiri;0;Kawin;Kp Sawah, RT 003 RW 003;Layak
+;;;BANTEN;2/12/1997;28;L;Islam;SLTA/Sederajat;Wiraswasta;1200000;3;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;9/27/1988;37;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;3600000;4;Milik Sendiri;2;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;3/12/1976;49;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;700000;3;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;7/12/1985;40;L;Islam;SLTP/Sederajat;Wiraswasta;3500000;3;Milik Sendiri;2;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;6/5/1954;71;L;Islam;Tidak/Belum Sekolah;Petani/Pekebun;0;1;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Layak
+;;;BOGOR;6/7/1975;50;L;Islam;SLTP/Sederajat;Wiraswasta;700000;0;Milik Sendiri;1;Cerai Mati;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;6/5/1979;46;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;1000000;1;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;1/1/1979;47;L;Islam;SLTP/Sederajat;Wiraswasta;2000000;4;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;6/16/1954;71;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp Sawah, RT 003 RW 003;Layak
+;;;JAKARTA;1/18/1984;42;L;Islam;SLTA/Sederajat;Wiraswasta;1200000;1;Menumpang;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;6/16/1981;44;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;1;Menumpang;0;Cerai Hidup;Kp Sawah, RT 003 RW 003;Layak
+;;;BOGOR;7/27/1978;47;L;Islam;SLTA/Sederajat;Wiraswasta;1500000;4;Milik Sendiri;0;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;8/9/2000;25;L;Islam;SLTA/Sederajat;Karyawan Swasta;3000000;3;Menumpang;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;4/13/1940;85;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;0;1;Milik Sendiri;0;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;10/18/1996;29;L;Islam;SLTA/Sederajat;Karyawan Swasta;3000000;2;Menumpang;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;7/18/1975;50;L;Islam;SLTA/Sederajat;Pegawai Negeri Sipil (Pns);5000000;4;Milik Sendiri;3;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;4/23/2002;23;L;Islam;SLTA/Sederajat;Karyawan Swasta;2900000;1;Ngontrak;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;6/16/1991;34;L;Islam;SLTA/Sederajat;Karyawan Swasta;3000000;2;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;7/6/1969;56;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Hidup;Kp Sawah, RT 003 RW 003;Layak
+;;;BOGOR;6/7/1967;58;L;Islam;Tamat SD/Sederajat;Buruh Tani/Perkebunan;0;0;Milik Sendiri;0;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;6/15/1969;56;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Mati;Kp Sawah, RT 003 RW 003;Layak
+;;;BOGOR;5/31/1997;28;L;Islam;SLTA/Sederajat;Karyawan Swasta;3000000;2;Menumpang;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;3/12/1986;39;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;3000000;3;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;2/25/1966;60;P;Istam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Hidup;Kp Sawah, RT 003 RW 003;Layak
+;;;BOGOR;6/12/1955;70;L;Islam;Tamat SD/Sederajat;Buruh Tani/Perkebunan;600000;2;Milik Sendiri;0;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;JAKARTA;9/26/1997;28;L;Islam;SLTP/Sederajat;Karyawan Swasta;2500000;3;Menumpang;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;7/4/1989;36;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;700000;3;Menumpang;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;7/16/1962;63;L;Islam;Tidak Tamat SD/Sederajat;Buruh Harian Lepas;0;1;Milik Sendiri;0;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;5/8/1970;55;L;Islam;SLTA/Sederajat;Buruh Tani/Perkebunan;400000;4;Milik Sendiri;0;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;JAKARTA;6/4/1960;65;P;Islam;SLTA/Sederajat;Guru;700000;1;Milik Sendiri;0;Cerai Mati;Kp Sawah, RT 003 RW 003;Layak
+;;;BOGOR;7/31/1955;70;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp Sawah, RT 003 RW 003;Layak
+;;;BOGOR;1/12/1995;31;L;Islam;SLTA/Sederajat;Karyawan Honorer;3000000;2;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;5/4/1958;67;P;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;1500000;0;Milik Sendiri;0;Cerai Mati;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;3/14/1964;61;L;Islam;SLTA/Sederajat;Wiraswasta;2000000;0;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;4/5/1981;44;L;Islam;Tidak/Belum Sekolah;Pedagang;2000000;3;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;1/6/1969;57;L;Islam;SLTA/Sederajat;Wiraswasta;0;3;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;12/24/1997;28;L;Islam;SLTA/Sederajat;Karyawan Swasta;5000000;3;Milik Sendiri;1;Belum Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;8/18/1982;43;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;4000000;3;Milik Sendiri;2;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;1/1/1953;73;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp Sawah, RT 003 RW 003;Layak
+;;;BOGOR;10/5/1983;42;L;Islam;SLTA/Sederajat;Karyawan Swasta;4000000;2;Milik Sendiri;1;Belum Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;1/6/1995;31;L;Islam;SLTA/Sederajat;Karyawan Swasta;4000000;1;Menumpang;1;Belum Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;1/14/1986;40;P;islam;Tamat SD/Sederajat;Belum/Tidak Bekerja;0;0;Milik Sendiri;0;Belum Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;5/4/1978;47;L;Islam;Tamat SD/Sederajat;Wiraswasta;500000;3;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;2/9/1984;42;L;Istam;SLTA/Sederajat;Karyawan Swasta;5000000;3;Menumpang;4;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;2/8/1981;45;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;2000000;3;Milik Sendiri;2;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;9/16/1966;59;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;500000;2;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;2/13/1997;29;L;Islam;SLTP/Sederajat;Karyawan Swasta;4000000;2;Ngontrak;1;Belum Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;7/28/1968;57;P;Islam;SLTP/Sederajat;Mengurus Rumah Tangga;1500000;1;Milik Sendiri;1;Cerai Mati;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;12/22/1970;55;L;Islam;Tamat SD/Sederajat;Wiraswasta;700000;4;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;3/23/1971;54;L;Islam;SLTP/Sederajat;Wiraswasta;3000000;3;Milik Sendiri;3;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;1/20/1966;60;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;1300000;1;Milik Sendiri;0;Cerai Mati;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;JAKARTA;7/18/1964;61;L;Islam;SLTP/Sederajat;Karyawan Swasta;3000000;3;Milik Sendiri;1;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;6/15/1976;49;L;Islam;SLTP/Sederajat;Wiraswasta;500000;3;Milik Sendiri;0;Kawin;Kp Sawah, RT 003 RW 003;Tidak Layak
+;;;BOGOR;5/14/1975;50;P;Islam;SLTA/Sederajat;Mengurus Rumah Tangga;0;3;Milik Sendiri;0;Cerai Mati;Kp Sawah, RT 003 RW 003;Layak
+;;;GARUT;10/16/1967;58;L;Islam;SLTP/Sederajat;Wiraswasta;2500000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;12/23/1961;64;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;2/15/1986;40;L;Islam;SLTA/Sederajat;Wiraswasta;4000000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;5/14/1992;33;L;Islam;SLTA/Sederajat;Karyawan Swasta;3000000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;8/16/1980;45;L;Islam;SLTA/Sederajat;Karyawan Swasta;5000000;4;Milik Sendiri;3;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;7/24/1967;58;L;Islam;SLTA/Sederajat;Pegawai Negeri Sipil (Pns);5000000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;9/9/1996;29;L;Islam;SLTA/Sederajat;Belum/Tidak Bekerja;0;2;Menumpang;1;Belum Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;10/10/1993;32;L;Islam;SLTA/Sederajat;Karyawan Honorer;2000000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;2/15/1982;44;L;Islam;SLTA/Sederajat;Wiraswasta;4000000;1;Milik Sendiri;1;Cerai Hidup;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;8/4/1982;43;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;300000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;2/21/1967;59;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;0;2;Milik Sendiri;0;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;7/5/1976;49;L;Islam;Tamat SD/Sederajat;Ustadz/Mubaligh;500000;1;Milik Sendiri;0;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;4/16/1960;65;L;Islam;Tamat SD/Sederajat;Buruh Tani/Perkebunan;400000;1;Milik Sendiri;0;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;6/25/1982;43;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;3500000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;JAKARTA;5/27/1980;45;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;1200000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;7/1/1950;75;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Kawin;Kp.Sawah,RT 004 RW 003;Layak
+;;;KARAWANG;12/1/1977;48;L;Islam;SLTP/Sederajat;Wiraswasta;2500000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;8/8/1973;52;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;800000;2;Milik Sendiri;0;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;1/20/1981;45;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;2000000;3;Milik Sendiri;1;Belum Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;9/12/1999;26;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;2500000;1;Milik Sendiri;1;Belum Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;JAKARTA;5/1/1988;37;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;3000000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;5/21/1986;39;L;Islam;SLTA/Sederajat;Wiraswasta;2500000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;5/31/1986;39;L;Islam;SLTA/Sederajat;Wiraswasta;1500000;0;Milik Sendiri;0;Cerai Hidup;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;11/11/1994;31;P;Islam;SLTP/Sederajat;Karyawan Swasta;3500000;1;Menumpang;1;Cerai Hidup;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;6/12/1963;62;P;Istam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 004 RW 003;Layak
+;;;BOGOR;1/1/1943;83;P;Istam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 004 RW 003;Layak
+;;;SUMEDANG;11/1/1954;71;L;Istam;Tidak/Belum Sekolah;Pedagang;3000000;2;Milik Sendiri;0;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;4/25/2000;25;L;Istam;SLTP/Sederajat;Pedagang;3000000;1;Menumpang;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;11/11/1994;31;P;Islam;SLTA/Sederajat;Mengurus Rumah Tangga;0;2;Milik Sendiri;0;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;1/10/1984;42;L;Islam;SLTA/Sederajat;Wiraswasta;3500000;3;Milik Sendiri;2;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;11/3/1965;60;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;3;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 004 RW 003;Layak
+;;;BOGOR;7/6/1962;63;L;Islam;Tidak/Belum Sekolah;Wiraswasta;2000000;1;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;1/30/1980;46;L;Islam;SLTP/Sederajat;Wiraswasta;3000000;3;Milik Sendiri;2;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;4/11/1978;47;L;Islam;SLTA/Sederajat;Wiraswasta;2500000;4;Milik Sendiri;2;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;9/6/1950;75;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;0;3;Milik Sendiri;0;Kawin;Kp.Sawah,RT 004 RW 003;Layak
+;;;BOGOR;11/4/1972;53;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;700000;3;Milik Sendiri;0;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;7/6/1991;34;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;2500000;2;Menumpang;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;7/12/1954;71;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;800000;0;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 004 RW 003;Layak
+;;;BOGOR;4/5/1982;43;L;Islam;SLTA/Sederajat;Wiraswasta;2500000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;10/18/1990;35;L;Islam;SLTA/Sederajat;Karyawan Swasta;3000000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BANDUNG;3/5/1958;67;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;700000;0;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 004 RW 003;Layak
+;;;BOGOR;7/4/1994;31;L;Islam;SLTA/Sederajat;Wiraswasta;3800000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;7/7/1977;48;P;Islam;SLTP/Sederajat;Karyawan Swasta;2000000;2;Milik Sendiri;1;Cerai Mati;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;8/6/1972;53;P;Istam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Hidup;Kp.Sawah,RT 004 RW 003;Layak
+;;;BOGOR;9/30/1988;37;L;Islam;SLTA/Sederajat;Karyawan Swasta;3000000;2;Menumpang;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;4/4/1951;74;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 004 RW 003;Layak
+;;;BOGOR;1/4/1973;53;L;Istam;Diploma IV / Strata l;Guru;3500000;2;Milik Sendiri;1;Belum Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;12/24/1961;64;P;Istam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 004 RW 003;Layak
+;;;BOGOR;6/19/1949;76;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;0;1;Milik Sendiri;2;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;3/16/1980;45;L;Islam;SLTA/Sederajat;Karyawan Swasta;3700000;3;Ngontrak;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;2/18/1973;53;L;Islam;SLTP/Sederajat;Wiraswasta;2300000;4;Milik Sendiri;2;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;JAKARTA;3/7/1993;32;L;Islam;SLTA/Sederajat;Karyawan Swasta;4000000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;MEDAN;6/5/1964;61;L;Istam;SLTA/Sederajat;Wiraswasta;2000000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGCR;3/15/1954;71;P;Istam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 004 RW 003;Layak
+;;;BOGOR;7/12/1963;62;L;Istam;Tamat SD/Sederajat;Buruh Harian Lepas;200000;4;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;4/3/1978;47;P;Istam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;2;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 004 RW 003;Layak
+;;;BOGOR;9/8/1978;47;L;Istam;SLTA/Sederajat;Karyawan Swasta;3000000;3;Milik Sendiri;2;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;3/1/1949;77;L;Istam;Tidak/Belum Sekolah;Petani/Pekebun;500000;1;Milik Sendiri;0;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;JAKARTA;11/11/1974;51;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;4/14/1968;57;L;Islam;SLTA/Sederajat;Perangkat Desa;2000000;1;Milik Sendiri;2;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;7/15/1957;68;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;1200000;1;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;1/11/1993;33;L;Islam;SLTA/Sederajat;Karyawan Swasta;2600000;2;Milik Sendiri;1;Belum Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;SUMEDANG;5/27/1988;37;L;Islam;SLTA/Sederajat;Karyawan Swasta;2000000;4;Milik Sendiri;2;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;5/4/1960;65;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;7/5/1950;75;L;Istam;Tidak/Belum Sekolah;Petani/Pekebun;0;1;Milik Sendiri;0;Kawin;Kp.Sawah,RT 004 RW 003;Layak
+;;;DOGOR;5/5/1980;45;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;2500000;4;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;6/5/1970;55;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;0;2;Milik Sendiri;0;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;2/12/1976;50;L;Islam;SLTA/Sederajat;Wiraswasta;2500000;4;Milik Sendiri;2;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;6/5/1970;55;L;Islam;Tidak/Belum Sekolah;Wiraswasta;2500000;4;Milik Sendiri;3;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;1/4/1982;44;P;Islam;SLTP/Sederajat;Karyawan Swasta;3000000;1;Milik Sendiri;0;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;7/10/1982;43;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;1200000;2;Milik Sendiri;0;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;5/3/1973;52;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;1200000;0;Menumpang;1;Cerai Hidup;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;2/1/1980;46;L;Islam;SLTA/Sederajat;Karyawan Swasta;3000000;3;Milik Sendiri;2;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;10/20/1960;65;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 004 RW 003;Layak
+;;;BOGOR;7/20/1985;40;L;Islam;SLTA/Sederajat;Wiraswasta;3500000;4;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;5/27/1992;33;L;Islam;SLTP/Sederajat;Karyawan Swasta;3000000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;JAKARTA;1/22/1995;31;L;Islam;SLTA/Sederajat;Karyawan Swasta;3000000;2;Menumpang;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;6/18/1968;57;L;Istam;Tidak/Belum Sekolah;Wiraswasta;600000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;6/5/1960;65;P;Istam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Kawin;Kp.Sawah,RT 004 RW 003;Layak
+;;;BOGOR;10/20/1984;41;P;Istam;SLTA/Sederajat;Mengurus Rumah Tangga;3000000;1;Milik Sendiri;1;Cerai Hidup;Kp.Sawah,RT 004 RW 003;Tidak Layak
+;;;BOGOR;4/14/1959;66;L;Islam;Tamat SD/Sederajat;Karyawan Swasta;0;1;Milik Sendiri;0;Kawin;Kp.Sawah,RT 004 RW 003;Layak
+;;;BOGOR;7/1/1960;65;P;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;0;0;Milik Sendiri;0;Belum Kawin;Kp.Sawah,RT 004 RW 003;Layak
+;;;BOGOR;6/14/1975;50;L;Islam;SLTP/Sederajat;Karyawan Swasta;3500000;3;Milik Sendiri;2;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;JAKARTA;8/21/1970;55;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;1200000;4;Milik Sendiri;2;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;PANDEGLANG;2/6/1993;33;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;1200000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;8/8/1992;33;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;4500000;3;Milik Sendiri;2;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;11/1/1974;51;L;Islam;Tamat SD/Sederajat;Wiraswasta;700000;4;Milik Sendiri;2;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;5/3/1935;90;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;0;1;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Layak
+;;;BOGOR;1/7/1975;51;L;Islam;Tamat SD/Sederajat;Belum/Tidak Bekerja;0;1;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;11/2/1953;72;L;Islam;Tidak/Belum Sekolah;Buruh Tani/Perkebunan;0;0;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Layak
+;;;PALEMBANG;2/20/1979;47;L;Islam;SLTA/Sederajat;Wiraswasta;2000000;4;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;7/6/1951;74;L;Islam;Tidak/Belum Sekolah;Petani/Pekebun;0;2;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Layak
+;;;BOGOR;3/8/1969;57;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;2000000;4;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;2/8/1980;46;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;2000000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;1/1/1944;82;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 005 RW 003;Layak
+;;;BOGOR;4/1/1978;47;L;Islam;SLTP/Sederajat;Wiraswasta;2500000;4;Milik Sendiri;2;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;7/5/1966;59;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;1200000;2;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;2/7/1972;54;L;Islam;SLTP/Sederajat;Karyawan Swasta;4000000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;3/18/1974;51;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;1700000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;1/1/1946;80;L;Islam;Tamat SD/Sederajat;Petani/Pekebun;0;3;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Layak
+;;;BOGOR;5/10/1970;55;L;Islam;SLTP/Sederajat;Wiraswasta;4000000;2;Milik Sendiri;3;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;5/11/1998;27;L;Islam;Diploma IV / Strata l;Karyawan Swasta;4000000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;6/17/1970;55;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;500000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;DEPOK;10/22/1999;26;L;Islam;SLTA/Sederajat;Karyawan Swasta;4000000;2;Menumpang;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;4/29/1978;47;L;Islam;SLTA/Sederajat;Karyawan Swasta;4000000;4;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;6/4/1963;62;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;1200000;2;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;7/1/1991;34;L;Islam;SLTA/Sederajat;Karyawan Swasta;4500000;2;Menumpang;2;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;7/5/1947;78;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;400000;0;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 005 RW 003;Layak
+;;;BOGOR;5/7/1990;35;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;1200000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;1/2/1989;37;L;Islam;SLTA/Sederajat;Karyawan Swasta;3000000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;7/7/1966;59;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;1200000;3;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;5/4/1990;35;L;Islam;SLTA/Sederajat;Karyawan Swasta;4000000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;9/5/1974;51;P;Islam;Tidak/Belum Sekolah;Karyawan Swasta;4000000;0;Milik Sendiri;0;Cerai Hidup;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;3/29/2007;18;P;Islam;SLTA/Sederajat;Karyawan Swasta;2300000;1;Milik Sendiri;1;Belum Kawin;Kp.Sawah,RT 005 RW 003;Layak
+;;;BOGOR;10/12/1960;65;L;Islam;Tidak Tamat SD/Sederajat;Wiraswasta;0;2;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Layak
+;;;BOGOR;5/2/1997;28;L;Islam;Tamat SD/Sederajat;Wiraswasta;2500000;2;Milik Sendiri;2;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;JAKARTA;2/26/1985;41;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;2000000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;2/12/1971;55;P;Islam;SLTP/Sederajat;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;6/8/1998;27;L;Islam;Diploma IV / Strata l;Karyawan Swasta;5000000;1;Ngontrak;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;2/13/2005;21;L;Islam;SLTA/Sederajat;Karyawan Swasta;2400000;0;Milik Sendiri;1;Belum Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;2/5/1987;39;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;3200000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;2/13/1972;54;L;Islam;SLTP/Sederajat;Wiraswasta;4500000;3;Milik Sendiri;2;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;8/6/1989;36;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;2000000;3;Ngontrak;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;7/3/1967;58;L;Islam;Tidak/Belum Sekolah;Wiraswasta;3000000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;4/14/1993;32;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;1000000;2;Menumpang;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;8/28/1988;37;L;Islam;SLTP/Sederajat;Karyawan Swasta;3000000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;6/12/1985;40;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;2000000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;8/14/1982;43;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;1200000;3;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;SUKOHARJO;11/28/1988;37;L;Islam;SLTA/Sederajat;Karyawan Swasta;3400000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;JAKARTA;8/26/1972;53;L;Islam;SLTP/Sederajat;Wiraswasta;2500000;5;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;12/6/1987;38;P;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;1500000;1;Menumpang;0;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;2/3/1976;50;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;2;Milik Sendiri;1;Cerai Hidup;Kp.Sawah,RT 005 RW 003;Layak
+;;;BOGOR;4/15/1975;50;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 005 RW 003;Layak
+;;;KUDUS;6/26/1978;47;L;Islam;Tamat SD/Sederajat;Wiraswasta;1000000;3;Milik Sendiri;2;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;7/15/1955;70;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;5/30/1973;52;L;Islam;SLTP/Sederajat;Wiraswasta;3700000;2;Milik Sendiri;1;Cerai Mati;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;12/15/1988;37;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;0;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;5/1/1996;29;L;Islam;SLTA/Sederajat;Wiraswasta;2500000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;3/5/1994;32;P;Islam;Tamat SD/Sederajat;Belum/Tidak Bekerja;0;0;Milik Sendiri;1;Belum Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;5/15/1992;33;L;Islam;SLTP/Sederajat;Wiraswasta;1000000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;SUMBER KARYA;11/20/1995;30;L;Islam;SLTA/Sederajat;Karyawan Swasta;3000000;2;Ngontrak;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;6/5/1995;30;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;1200000;2;Milik Sendiri;2;Belum Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;7/5/1967;58;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;1200000;1;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;8/15/1972;53;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;2;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;9/11/1988;37;L;Islam;SLTA/Sederajat;Wiraswasta;2500000;1;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;2/14/1965;61;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;1;Cerai Mati;Kp.Sawah,RT 005 RW 003;Layak
+;;;BOGOR;12/2/1972;53;L;Islam;Tamat SD/Sederajat;Wiraswasta;2500000;2;Milik Sendiri;2;Cerai Mati;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;JAKARTA;3/12/1950;75;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;3;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 005 RW 003;Layak
+;;;BOGOR;4/12/1957;68;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;1000000;2;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;6/5/1965;60;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;600000;3;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;CILACAP;12/25/1982;43;L;Islam;SLTP/Sederajat;Wiraswasta;2500000;3;Milik Sendiri;2;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;6/6/1968;57;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;1000000;3;Milik Sendiri;3;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;9/25/1979;46;P;Islam;SLTA/Sederajat;Mengurus Rumah Tangga;0;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;3/2/1977;49;L;Islam;SLTA/Sederajat;Karyawan Swasta;3000000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;9/6/1970;55;L;Islam;SLTA/Sederajat;Karyawan Swasta;6000000;4;Milik Sendiri;2;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;4/25/1983;42;L;Islam;SLTA/Sederajat;Wiraswasta;3000000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;12/4/1962;63;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;1000000;2;Milik Sendiri;2;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;9/13/1954;71;L;Islam;Tidak/Belum Sekolah;Wiraswasta;1000000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;5/8/1982;43;L;Islam;SLTP/Sederajat;Wiraswasta;3700000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;3/21/1973;52;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;2;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;JAKARTA;9/1/1988;37;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;2500000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;LEBAK;10/15/1987;38;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;2000000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;7/1/1947;78;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp.Sawah,RT 005 RW 003;Layak
+;;;BOGOR;2/5/1972;54;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;1200000;4;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;10/16/1980;45;L;Islam;SLTP/Sederajat;Wiraswasta;2500000;2;Milik Sendiri;1;Cerai Hidup;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;11/9/1986;39;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;0;3;Milik Sendiri;1;Belum Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;11/3/1979;46;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;1200000;6;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;8/5/1990;35;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;4/29/1994;31;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;2000000;2;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;3/4/1993;33;P;Islam;SLTA/Sederajat;Karyawan Swasta;4000000;2;Menumpang;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;1/29/1981;45;L;Islam;SLTP/Sederajat;Wiraswasta;2500000;3;Milik Sendiri;2;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;TANGGERANG;8/15/1987;38;P;Islam;SLTA/Sederajat;Karyawan Swasta;3700000;2;Milik Sendiri;0;Cerai Hidup;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;8/14/1973;52;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;3/11/1992;33;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;2000000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;7/11/1953;72;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;500000;1;Milik Sendiri;0;Kawin;Kp.Sawah,RT 005 RW 003;Layak
+;;;SUKABUMI;7/10/1973;52;L;Islam;SLTP/Sederajat;Wiraswasta;1500000;3;Milik Sendiri;1;Kawin;Kp.Sawah,RT 005 RW 003;Tidak Layak
+;;;BOGOR;6/15/1967;58;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;2;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;9/29/1992;33;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;700000;2;Menumpang;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;11/22/1996;29;P;Islam;SLTA/Sederajat;Mengurus Rumah Tangga;4000000;1;Menumpang;1;Cerai Hidup;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;CIANJUR;4/3/1991;34;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;1500000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;TANGERANG;4/17/1981;44;L;Islam;SLTA/Sederajat;Wiraswasta;1500000;3;Milik Sendiri;2;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;7/1/1951;74;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;12/26/1997;28;L;Islam;SLTP/Sederajat;Wiraswasta;1000000;0;Menumpang;1;Cerai Hidup;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;5/22/2002;23;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;1700000;0;Menumpang;0;Belum Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;1/7/1982;44;L;Islam;SLTA/Sederajat;Wiraswasta;3000000;2;Milik Sendiri;2;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;9/20/1977;48;L;Islam;SLTP/Sederajat;Buruh Tani/Perkebunan;800000;3;Milik Sendiri;0;Kawin;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;9/19/1962;63;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;0;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;4/7/1984;41;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;2000000;2;Menumpang;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;CIREBON;6/18/1987;38;L;Islam;SLTA/Sederajat;Karyawan Swasta;3000000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;2/15/2000;26;P;Islam;Tamat SD/Sederajat;Karyawan Swasta;3500000;0;Menumpang;1;Belum Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;1/3/1954;72;L;Islam;Tidak/Belum Sekolah;Petani/Pekebun;0;3;Milik Sendiri;0;Kawin;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;4/19/1957;68;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;6/17/1982;43;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;2/3/1984;42;P;Islam;Tidak/Belum Sekolah;Wiraswasta;600000;0;Milik Sendiri;1;Belum Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;KARAWANG;5/5/1985;40;L;Islam;Tamat SD/Sederajat;Wiraswasta;2500000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;2/15/1964;62;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;300000;0;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;5/23/1984;41;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;2500000;4;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;2/1/1975;51;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;500000;6;Milik Sendiri;2;Kawin;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;7/22/1995;30;L;Islam;SLTA/Sederajat;Wiraswasta;2500000;3;Menumpang;0;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;6/25/1975;50;P;Iulam;SLTA/Sederajat;Guru;1000000;1;Menumpang;0;Cerai Hidup;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;7/16/1954;71;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;600000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;2/7/1980;46;L;Islam;Tamat SD/Sederajat;Ustadz/Mubaligh;0;5;Milik Sendiri;0;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;6/9/1968;57;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;2000000;3;Milik Sendiri;2;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;7/23/1977;48;L;Islam;SLTA/Sederajat;Wiraswasta;500000;4;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;6/5/1979;46;L;Islam;Tidak/Belum Sekolah;Wiraswasta;700000;7;Milik Sendiri;2;Kawin;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;12/25/1963;62;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;7/15/1984;41;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;2500000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;JAKARTA;6/26/1987;38;L;Islam;SLTA/Sederajat;Karyawan Swasta;3300000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;7/20/1987;38;L;Islam;SLTA/Sederajat;Karyawan Swasta;3100000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;6/26/1974;51;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;1000000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;6/16/1990;35;L;Islam;Tamat SD/Sederajat;Karyawan Swasta;3000000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;8/18/1960;65;P;Islam;Tidak/Belum Sekolah;Mengurus Rumah Tangga;0;2;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;8/5/1978;47;L;Islam;SLTA/Sederajat;Belum/Tidak Bekerja;0;0;Milik Sendiri;1;Cerai Hidup;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;10/4/1970;55;L;Islam;Tidak/Belum Sekolah;Buruh Harian Lepas;1000000;4;Milik Sendiri;2;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;DOGOR;12/21/1990;35;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;2600000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;5/11/1968;57;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;500000;0;Milik Sendiri;1;Cerai Hidup;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;1/23/1997;29;L;Islam;SLTA/Sederajat;Karyawan Swasta;3500000;2;Menumpang;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;8/28/1988;37;P;Islam;SLTP/Sederajat;Karyawan Swasta;3000000;1;Ngontrak;0;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;7/7/1967;58;L;Islam;SLTA/Sederajat;Wiraswasta;3500000;3;Milik Sendiri;3;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;3/8/1983;43;L;Islam;SLTP/Sederajat;Karyawan Swasta;2000000;5;Ngontrak;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;DOGOR;10/9/1987;38;P;Islam;SLTP/Sederajat;Mengurus Rumah Tangga;0;1;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;6/9/1954;71;P;Islam;Tidak Tamat SD/Sederajat;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;2/8/1987;39;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;1150000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;2/12/1971;55;L;Islam;Tamat SD/Sederajat;Wiraswasta;1600000;4;Milik Sendiri;2;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;5/10/1982;43;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;450000;4;Milik Sendiri;0;Kawin;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;8/7/1955;70;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;4/27/1973;52;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;0;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;6/12/1980;45;L;Islam;Tamat SD/Sederajat;Karyawan Swasta;1500000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;8/10/1940;85;P;Islam;SLTP/Sederajat;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;2/1/1979;47;L;Islam;SLTA/Sederajat;Wiraswasta;2700000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;3/5/1954;72;L;Islam;Tidak/Belum Sekolah;Petani/Pekebun;0;1;Milik Sendiri;0;Kawin;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;12/4/1994;31;L;Islam;Diploma IV / Strata l;Karyawan Swasta;4000000;2;Menumpang;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;KUNINGAN;7/1/1984;41;L;Islam;Tamat SD/Sederajat;Karyawan Swasta;3900000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;KARAWANG;2/21/1987;39;L;Istam;Tamat SD/Sederajat;Buruh Harian Lepas;2500000;4;Menumpang;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;1/1/1970;56;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;1;Milik Sendiri;1;Cerai Mati;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;9/20/1994;31;L;Islam;Tamat SD/Sederajat;Karyawan Swasta;4000000;2;Menumpang;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;PALEMBANG;7/24/1982;43;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;2500000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;12/3/1983;42;L;Islam;SLTP/Sederajat;Buruh Harian Lepas;1700000;3;Milik Sendiri;0;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;8/12/1967;58;L;Islam;Tamat SD/Sederajat;Buruh Harian Lepas;300000;0;Milik Sendiri;1;Cerai Mati;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;2/1/1984;42;L;Islam;Tidak/Belum Sekolah;Wiraswasta;1000000;3;Milik Sendiri;0;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;5/24/1982;43;L;Islam;Tidak/Belum Sekolah;Wiraswasta;2700000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;SUKABUMI;8/24/1986;39;L;Islam;Diploma IV / Strata l;Wiraswasta;3000000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;3/7/1961;65;L;Islam;Tamat SD/Sederajat;Buruh Tani/Perkebunan;400000;2;Milik Sendiri;0;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;8/26/1982;43;L;Islam;SLTA/Sederajat;Buruh Harian Lepas;500000;4;Milik Sendiri;0;Kawin;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;12/27/1978;47;L;Islam;SLTP/Sederajat;Karyawan Swasta;1500000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;8/14/1994;31;L,;Islam;SLTP/Sederajat;Buruh Harian Lepas;2800000;3;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
+;;;BOGOR;6/17/1951;74;L;Istam;Tamat SD/Sederajat;Buruh Harian Lepas;0;0;Milik Sendiri;0;Kawin;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;6/12/1960;65;P;Islam;Tamat SD/Sederajat;Mengurus Rumah Tangga;0;0;Milik Sendiri;0;Cerai Mati;Kp. Sawah,RT 006 RW 003;Layak
+;;;BOGOR;5/8/1975;50;L;Islam;SLTA/Sederajat;Wiraswasta;2500000;2;Milik Sendiri;1;Kawin;Kp. Sawah,RT 006 RW 003;Tidak Layak
